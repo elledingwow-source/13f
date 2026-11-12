@@ -1,0 +1,1862 @@
+{
+  "000899104": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "00206R102": {
+    "business": "提供通信网络、设备或连接服务",
+    "sector": "通信",
+    "source": "wikipedia:AT&T"
+  },
+  "00215W100": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:ASE Group"
+  },
+  "002824100": {
+    "business": "提供医疗健康产品、保险、器械或诊断服务",
+    "sector": "医疗健康",
+    "source": "wikipedia:Abbott Laboratories"
+  },
+  "007903107": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:AMD"
+  },
+  "00827B106": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Affirmation"
+  },
+  "00835Q202": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Aeva"
+  },
+  "00912X302": {
+    "business": "提供航空客运、运输或相关资产运营服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Air Lease Corporation"
+  },
+  "012653101": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Albemarle Corporation"
+  },
+  "018802AC2": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Alliant Energy"
+  },
+  "02005N100": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Ally Financial"
+  },
+  "02079K107": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Alphabet Inc."
+  },
+  "02079K305": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Alphabet Inc."
+  },
+  "023135106": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Amazon (company)"
+  },
+  "02376R102": {
+    "business": "提供航空客运、运输或相关资产运营服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:American Airlines"
+  },
+  "025816109": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:American Express Co. v. Italian Colors Restaurant"
+  },
+  "026874784": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:American International Group"
+  },
+  "03027X100": {
+    "business": "持有并运营通信塔、广告位等不动产资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:American Tower"
+  },
+  "031652100": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Amkor Technology"
+  },
+  "032095101": {
+    "business": "提供通信网络、设备或连接服务",
+    "sector": "通信",
+    "source": "wikipedia:Amphenol"
+  },
+  "032654105": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Analog Devices"
+  },
+  "03753U106": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "037833100": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Apple Inc."
+  },
+  "038222105": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Applied Materials"
+  },
+  "03823U102": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Applied Optoelectronics"
+  },
+  "03831W108": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:AppLovin"
+  },
+  "04010E109": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Arginine"
+  },
+  "042068205": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Arm Holdings"
+  },
+  "045487105": {
+    "business": "持有并运营房地产或REIT资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:Associated Banc-Corp"
+  },
+  "04626A103": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Astera Labs"
+  },
+  "047726302": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Atlanta Braves"
+  },
+  "049468101": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Atlassian"
+  },
+  "052769106": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Autodesk"
+  },
+  "052800109": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Autoliv"
+  },
+  "053015103": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:ADP (company)"
+  },
+  "05370A108": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "05722G100": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Baker Hughes"
+  },
+  "060505104": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Bank of America Corporate Center"
+  },
+  "06652K103": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:BankUnited"
+  },
+  "06738E204": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Barclays"
+  },
+  "06849F108": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Barrick Mining"
+  },
+  "07782B104": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "084670702": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Berkshire Hathaway"
+  },
+  "088929104": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:BENlabs"
+  },
+  "090043AF7": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Bill.com"
+  },
+  "09239BAF6": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Henry Hampton"
+  },
+  "09260D107": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Blackstone Inc."
+  },
+  "093671105": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Block, Inc."
+  },
+  "093712107": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Bloom Energy"
+  },
+  "09581B103": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "wikipedia:Blue Owl Capital"
+  },
+  "097023105": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "wikipedia:Boeing Commercial Airplanes"
+  },
+  "09857L108": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Booking Holdings"
+  },
+  "110122108": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Bristol-Myers Squibb Co. v. Superior Court"
+  },
+  "110448107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:British American Tobacco"
+  },
+  "11135F101": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Broadcom"
+  },
+  "126349109": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "126408103": {
+    "business": "持有并运营房地产或REIT资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:CSX Corporation"
+  },
+  "12740C103": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Cadence Bank"
+  },
+  "13646K108": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Canadian Pacific Kansas City"
+  },
+  "14040H105": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Capital One"
+  },
+  "14149Y108": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Cardinal Health"
+  },
+  "142152107": {
+    "business": "提供诊断检测与生命科学服务",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "143130102": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:CarMax"
+  },
+  "143658300": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Carnival Corporation"
+  },
+  "144285103": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Carpenter Technology Corporation"
+  },
+  "14448C104": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Carrier Global"
+  },
+  "15101Q207": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "wikipedia:Celestica"
+  },
+  "151290889": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "15135U109": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Cenovus Energy"
+  },
+  "156431108": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Century Aluminum"
+  },
+  "15677J108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Dayforce"
+  },
+  "16115Q308": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Dinosaurs (TV series)"
+  },
+  "16119P108": {
+    "business": "提供通信网络、设备或连接服务",
+    "sector": "通信",
+    "source": "wikipedia:Charter Communications"
+  },
+  "16411R208": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Cheniere Energy"
+  },
+  "169656105": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Chipotle Mexican Grill"
+  },
+  "171757206": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "171779309": {
+    "business": "提供光通信、网络设备或连接解决方案",
+    "sector": "通信",
+    "source": "wikipedia:Ciena"
+  },
+  "172573107": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Circle Internet Group"
+  },
+  "17275R102": {
+    "business": "提供光通信、网络设备或连接解决方案",
+    "sector": "通信",
+    "source": "wikipedia:Cisco Systems VPN Client"
+  },
+  "172967424": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Citigroup"
+  },
+  "18453H106": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Clear Channel Outdoor"
+  },
+  "18915M107": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Cloudflare"
+  },
+  "192108504": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Coeur Mining"
+  },
+  "19240Q201": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "19247G107": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Coherent Corp."
+  },
+  "20030N101": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Comcast Corp. v. FCC"
+  },
+  "200340107": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Comerica"
+  },
+  "20717M103": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Confluent"
+  },
+  "20717MAB9": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Confluent"
+  },
+  "20825C104": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:ConocoPhillips"
+  },
+  "21036P108": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Constellation Brands"
+  },
+  "21037T109": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Constellation Energy"
+  },
+  "217204106": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Copart"
+  },
+  "21873S108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:CoreWeave"
+  },
+  "219350105": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Corning Inc."
+  },
+  "219948106": {
+    "business": "提供支付网络与金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Corpay"
+  },
+  "22160K105": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Costco"
+  },
+  "22266T109": {
+    "business": "经营媒体内容、娱乐平台或消费品牌",
+    "sector": "消费",
+    "source": "wikipedia:Coupang"
+  },
+  "23331A109": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:D. R. Horton"
+  },
+  "23345M107": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:DCP Midstream Partners"
+  },
+  "235851102": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "heuristic"
+  },
+  "23804L103": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Datalogic"
+  },
+  "23954D109": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "24703L202": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Dell Technologies"
+  },
+  "247361702": {
+    "business": "提供航空客运、运输或相关资产运营服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Delta Air Lines"
+  },
+  "25179M103": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Devon Energy"
+  },
+  "252131AM9": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Dexcom"
+  },
+  "25243Q205": {
+    "business": "生产饮料、食品或消费品牌产品",
+    "sector": "消费",
+    "source": "wikipedia:Diageo"
+  },
+  "253393102": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Dick's Sporting Goods"
+  },
+  "25401T603": {
+    "business": "持有并运营房地产或REIT资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:DigitalBridge"
+  },
+  "254687106": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Walt Disney"
+  },
+  "256163106": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Docusign"
+  },
+  "25754A201": {
+    "business": "经营餐饮品牌与连锁业务",
+    "sector": "消费",
+    "source": "wikipedia:Domino's"
+  },
+  "25809K105": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:DoorDash"
+  },
+  "26210CAC8": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Dropbox"
+  },
+  "268158201": {
+    "business": "提供相关行业产品与服务",
+    "sector": "科技",
+    "source": "heuristic"
+  },
+  "27579R104": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:East West Bank"
+  },
+  "278865100": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Ecolab"
+  },
+  "285512109": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Electronic Arts"
+  },
+  "291011104": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Emerson Electric"
+  },
+  "29362U104": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Entegris"
+  },
+  "29364G103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Entergy Corp. v. Riverkeeper Inc."
+  },
+  "29445S100": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "heuristic"
+  },
+  "29786AAJ5": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Etsy"
+  },
+  "30063P105": {
+    "business": "提供诊断检测与生命科学服务",
+    "sector": "医疗健康",
+    "source": "wikipedia:Exact Sciences Corporation"
+  },
+  "30161N101": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Exelon"
+  },
+  "30303M102": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Meta Platforms"
+  },
+  "31620M106": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "31946M103": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "heuristic"
+  },
+  "343412102": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Fluor Corporation"
+  },
+  "345370860": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Ford Motor Company"
+  },
+  "349381103": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Figure Technology Solutions"
+  },
+  "34959E109": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Fortinet"
+  },
+  "35671D857": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Freeport-McMoRan"
+  },
+  "35909D109": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Frontier Communications"
+  },
+  "36828A101": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:GE Vernova"
+  },
+  "370334104": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:General Mills"
+  },
+  "37045V100": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:General Motors companion make program"
+  },
+  "37637K108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:GitLab Inc."
+  },
+  "37733W204": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:GSK plc"
+  },
+  "37940X102": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Global Positioning System"
+  },
+  "37950E259": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "wikipedia:Global X ETFs"
+  },
+  "37959E102": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Globe Life"
+  },
+  "380237107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:GoDaddy"
+  },
+  "38141G104": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Goldman Sachs"
+  },
+  "382550101": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Goodyear Tire and Rubber Company"
+  },
+  "384802104": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:W. W. Grainger"
+  },
+  "40434L105": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:HP Inc."
+  },
+  "413216300": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Harmony Gold (mining)"
+  },
+  "416515104": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:The Hartford"
+  },
+  "422704106": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Hecla Mining"
+  },
+  "422806208": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:HEICO"
+  },
+  "42824C109": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Hewlett Packard Enterprise"
+  },
+  "431571108": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Carole Hillenbrand"
+  },
+  "433000106": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Hims & Hers Health"
+  },
+  "43300A203": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Hilton Worldwide"
+  },
+  "433313103": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "436440101": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Hologic"
+  },
+  "437076102": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Home Depot"
+  },
+  "438516106": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Honeywell"
+  },
+  "444859102": {
+    "business": "提供医疗健康产品、保险、器械或诊断服务",
+    "sector": "医疗健康",
+    "source": "wikipedia:Humana"
+  },
+  "44812J104": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:The Hues Corporation"
+  },
+  "45073V108": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:ITT Inc."
+  },
+  "452308109": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Illinois Tool Works Inc. v. Independent Ink, Inc."
+  },
+  "45337C102": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "wikipedia:Incyte"
+  },
+  "457669307": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:INX Media case"
+  },
+  "458140100": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Intel Corporation v CPM United Kingdom Ltd."
+  },
+  "46137V357": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Invesco"
+  },
+  "46266C105": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:IQVIA"
+  },
+  "464287184": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "wikipedia:IShares S&P 100"
+  },
+  "464287234": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "wikipedia:IShares S&P 100"
+  },
+  "464287515": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "wikipedia:IShares S&P 100"
+  },
+  "46428R107": {
+    "business": "跟踪大宗商品期货或商品指数",
+    "sector": "ETF/基金",
+    "source": "wikipedia:IShares"
+  },
+  "46434G764": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "wikipedia:IShares"
+  },
+  "465741106": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Itron"
+  },
+  "46625H100": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:JPMorgan Chase"
+  },
+  "466313103": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Jabil"
+  },
+  "46982L108": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Jacobs Solutions"
+  },
+  "47215P106": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:JD.com"
+  },
+  "47215PAJ5": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:JD.com"
+  },
+  "48251W104": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:KKR & Co."
+  },
+  "489170100": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Kennametal"
+  },
+  "49177J102": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Kenvue"
+  },
+  "494368103": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Kimberly-Clark"
+  },
+  "500767306": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "heuristic"
+  },
+  "50212V100": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "wikipedia:LPL Financial"
+  },
+  "512816109": {
+    "business": "持有并运营通信塔、广告位等不动产资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:Lamar Advertising Company"
+  },
+  "518415104": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Lattice Semiconductor"
+  },
+  "531229755": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "532457108": {
+    "business": "生产医疗器械与诊断设备",
+    "sector": "医疗健康",
+    "source": "wikipedia:Eli Lilly & Co. v. Medtronic, Inc."
+  },
+  "546347105": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Louisiana-Pacific"
+  },
+  "55024U109": {
+    "business": "提供光通信、网络设备或连接解决方案",
+    "sector": "通信",
+    "source": "wikipedia:Lumentum"
+  },
+  "55024UAF6": {
+    "business": "提供光通信、网络设备或连接解决方案",
+    "sector": "通信",
+    "source": "wikipedia:Lumentum"
+  },
+  "55354G100": {
+    "business": "持有并运营房地产或REIT资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:MSCI"
+  },
+  "554489104": {
+    "business": "持有并运营房地产或REIT资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:Veris Residential"
+  },
+  "55616P104": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Macy's, Inc."
+  },
+  "565394103": {
+    "business": "经营媒体内容、娱乐平台或消费品牌",
+    "sector": "消费",
+    "source": "wikipedia:Instacart"
+  },
+  "56585A102": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Marathon Petroleum"
+  },
+  "57164YAD9": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Marriott Vacations Worldwide"
+  },
+  "573874104": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Marvell Technology"
+  },
+  "576323109": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:MasTec"
+  },
+  "57636Q104": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Mastercard"
+  },
+  "57667L107": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Match Group"
+  },
+  "580135101": {
+    "business": "经营餐饮品牌与连锁业务",
+    "sector": "消费",
+    "source": "wikipedia:McDonald's"
+  },
+  "58155Q103": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:McKesson Corporation"
+  },
+  "58733R102": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Mercado Libre"
+  },
+  "58933Y105": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "wikipedia:Merck & Co."
+  },
+  "594918104": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Microsoft Corp. v European Commission"
+  },
+  "594972408": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:MicroStrategy"
+  },
+  "595112103": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Micron Technology"
+  },
+  "608190104": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "wikipedia:Mohawk Industries"
+  },
+  "615369105": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Moody's Corporation"
+  },
+  "617446448": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Morgan Stanley"
+  },
+  "629377508": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:NRG Energy"
+  },
+  "63001N106": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "wikipedia:NCR Atleos"
+  },
+  "644535106": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "heuristic"
+  },
+  "650111107": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "heuristic"
+  },
+  "651639106": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Newmont"
+  },
+  "65339F655": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:NextEra Energy"
+  },
+  "668771108": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Gen Digital"
+  },
+  "67000B203": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Novarra Inc."
+  },
+  "670346105": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Nucor"
+  },
+  "67059N108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Nutanix"
+  },
+  "67066G104": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Nvidia"
+  },
+  "67080N101": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Nutation (botany)"
+  },
+  "674599105": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Occidental Petroleum"
+  },
+  "68062P106": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "682189105": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Onsemi"
+  },
+  "68278B107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:One team in Tallinn"
+  },
+  "683344105": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Onto Innovation"
+  },
+  "683712103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "科技",
+    "source": "heuristic"
+  },
+  "68389X204": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Oracle Corporation"
+  },
+  "69047Q102": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Ovintiv"
+  },
+  "690742101": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Owens Corning"
+  },
+  "69121K104": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "wikipedia:Blue Owl Capital"
+  },
+  "693718108": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Paccar"
+  },
+  "697435105": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Palo Alto Networks"
+  },
+  "697900108": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "heuristic"
+  },
+  "70450C101": {
+    "business": "提供支付网络与金融服务",
+    "sector": "金融",
+    "source": "wikipedia:PayPay"
+  },
+  "70975L107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Penumbra: Necrologue"
+  },
+  "71377A103": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Performance Food Group"
+  },
+  "71385M107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "71654V408": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Petrobras"
+  },
+  "718172109": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Philip Morris International"
+  },
+  "722304102": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Pinduoduo"
+  },
+  "72352L106": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Pinterest"
+  },
+  "73278L105": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Pool Corporation"
+  },
+  "736508847": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "74251V102": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Principal Financial Group"
+  },
+  "742718109": {
+    "business": "经营消费品牌、零售或服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Procter & Gamble"
+  },
+  "74340E103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Ethinylestradiol"
+  },
+  "744320102": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Prudential Financial"
+  },
+  "74623V103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "科技",
+    "source": "heuristic"
+  },
+  "74743L100": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Qnity Electronics"
+  },
+  "747525103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Qualcomm Inc. v. Broadcom Corp."
+  },
+  "749527107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:REV Group"
+  },
+  "74967X103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:RH"
+  },
+  "750940108": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Ralliart"
+  },
+  "753422AF1": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Rapid intensification"
+  },
+  "75734B100": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Reddit"
+  },
+  "75886F107": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Regeneron Pharmaceuticals"
+  },
+  "761152107": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:ResMed"
+  },
+  "76131D103": {
+    "business": "经营餐饮品牌与连锁业务",
+    "sector": "消费",
+    "source": "wikipedia:Restaurant Brands International"
+  },
+  "76155X100": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "767292105": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "770701100": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "773121108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Rocket Lab"
+  },
+  "776696106": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Roper Technologies"
+  },
+  "778296103": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Ross Stores"
+  },
+  "780259305": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Shell plc"
+  },
+  "78409V104": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "wikipedia:S&P Global"
+  },
+  "784305104": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:H2O (American band)"
+  },
+  "78462F103": {
+    "business": "跟踪标普500等股票指数",
+    "sector": "ETF/基金",
+    "source": "wikipedia:SPDR S&P 500 ETF Trust"
+  },
+  "784730103": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:SSR Mining"
+  },
+  "79466L302": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Salesforce"
+  },
+  "80004C200": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "wikipedia:Sandisk"
+  },
+  "808513105": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Charles R. Schwab"
+  },
+  "81211K100": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Sealed Air"
+  },
+  "81369Y605": {
+    "business": "跟踪标普500等股票指数",
+    "sector": "ETF/基金",
+    "source": "wikipedia:SPDR"
+  },
+  "81619Q105": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:Select Medical"
+  },
+  "816851109": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Sempra"
+  },
+  "81730H109": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:SentinelOne"
+  },
+  "81762P102": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:ServiceNow"
+  },
+  "82575P107": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:Sibanye-Stillwater"
+  },
+  "832696405": {
+    "business": "生产饮料、食品或消费品牌产品",
+    "sector": "消费",
+    "source": "wikipedia:Jerome Monroe Smucker"
+  },
+  "83304AAK2": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Snap Inc."
+  },
+  "83601L102": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "heuristic"
+  },
+  "842587107": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Southern Cone"
+  },
+  "84921RAB6": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Spotify Wrapped"
+  },
+  "85423L103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:StandardAero"
+  },
+  "855244109": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Starbucks Corp. v. McKinney"
+  },
+  "858119100": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Steel Dynamics"
+  },
+  "861012102": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:STMicroelectronics"
+  },
+  "866966104": {
+    "business": "生产工业设备、零部件或工程产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Sunbelt Rentals"
+  },
+  "871607107": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Synopsys"
+  },
+  "87161C501": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "wikipedia:Synovus"
+  },
+  "872540109": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "872590104": {
+    "business": "提供通信网络、设备或连接服务",
+    "sector": "通信",
+    "source": "wikipedia:T-Mobile US"
+  },
+  "87265H109": {
+    "business": "提供保险与风险管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Tri Pointe Homes"
+  },
+  "874039100": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:TSMC"
+  },
+  "874054109": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Take-Two Interactive"
+  },
+  "87612E106": {
+    "business": "经营零售、电商或消费品牌业务",
+    "sector": "消费",
+    "source": "wikipedia:Target Corporation"
+  },
+  "88034P109": {
+    "business": "经营媒体内容、娱乐平台或消费品牌",
+    "sector": "消费",
+    "source": "wikipedia:Tencent Music Entertainment Awards"
+  },
+  "880770102": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Teradyne"
+  },
+  "88080T104": {
+    "business": "从事金属矿产开采与资源开发",
+    "sector": "工业/材料",
+    "source": "wikipedia:TeraWulf"
+  },
+  "88160R101": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Tesla, Inc."
+  },
+  "881624209": {
+    "business": "研发基因相关疗法",
+    "sector": "生物科技/制药",
+    "source": "wikipedia:Teva Pharmaceuticals"
+  },
+  "88339J105": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:The Trade Desk"
+  },
+  "883556102": {
+    "business": "提供诊断检测与生命科学服务",
+    "sector": "医疗健康",
+    "source": "wikipedia:Thermo Fisher Scientific"
+  },
+  "884903808": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Thomson Reuters"
+  },
+  "893641100": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:TransDigm Group"
+  },
+  "90138F102": {
+    "business": "提供云通信API与客户互动软件",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Twilio"
+  },
+  "90184D100": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Twist Bioscience"
+  },
+  "902685106": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Udea incertalis"
+  },
+  "90353T100": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Uber Technologies Inc v Heller"
+  },
+  "907818108": {
+    "business": "提供航空客运、运输或相关资产运营服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Union Pacific Railroad"
+  },
+  "910047109": {
+    "business": "经营航空客运与货运服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:United Airlines"
+  },
+  "912008109": {
+    "business": "提供医疗健康产品、服务或解决方案",
+    "sector": "医疗健康",
+    "source": "wikipedia:US Foods"
+  },
+  "91307C102": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "91324P102": {
+    "business": "提供医疗健康产品、保险、器械或诊断服务",
+    "sector": "医疗健康",
+    "source": "wikipedia:UnitedHealth Group"
+  },
+  "91332U101": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Unity Technologies"
+  },
+  "918284100": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:VSE Corporation"
+  },
+  "92189F676": {
+    "business": "跟踪特定指数或资产篮子",
+    "sector": "ETF/基金",
+    "source": "heuristic"
+  },
+  "922280AD4": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Varonis Systems"
+  },
+  "922475108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Veeva Systems"
+  },
+  "922908363": {
+    "business": "从事能源生产、公用事业或资源开发",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Vanguard TV-3"
+  },
+  "92826C839": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Visa Inc."
+  },
+  "92837L109": {
+    "business": "从事能源生产、公用事业或资源开发",
+    "sector": "能源/公用事业",
+    "source": "heuristic"
+  },
+  "92840M102": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Vistra Corp."
+  },
+  "929160109": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Vulcan Materials Company"
+  },
+  "92939U106": {
+    "business": "发电、输配电或公用事业运营",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:WEC Energy Group"
+  },
+  "929740108": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "wikipedia:Wabtec"
+  },
+  "931142103": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "wikipedia:Walmart Inc. v. DEA-DOJ"
+  },
+  "934423104": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Warner Bros. Discovery"
+  },
+  "947890109": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "wikipedia:Webster, Indiana"
+  },
+  "957638109": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Western Alliance Bancorporation"
+  },
+  "958102105": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Western Digital"
+  },
+  "963320106": {
+    "business": "从事工业制造、材料或工程服务",
+    "sector": "工业/材料",
+    "source": "wikipedia:Whirlpool Corporation"
+  },
+  "974155103": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Wingstop"
+  },
+  "97785W106": {
+    "business": "设计、开发或制造半导体芯片",
+    "sector": "半导体",
+    "source": "wikipedia:Wolfspeed"
+  },
+  "980745103": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Woodward, Inc."
+  },
+  "98138H101": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Workday, Inc."
+  },
+  "98390R102": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Xanadu Quantum Technologies"
+  },
+  "98420N105": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "heuristic"
+  },
+  "984245100": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:YPF"
+  },
+  "98954M200": {
+    "business": "持有并运营房地产或REIT资产",
+    "sector": "房地产/REIT",
+    "source": "wikipedia:Zillow"
+  },
+  "D18190898": {
+    "business": "提供银行、存贷与综合金融服务",
+    "sector": "金融",
+    "source": "wikipedia:Deutsche Bank"
+  },
+  "F21107101": {
+    "business": "提供航空航天、运输或相关服务",
+    "sector": "航空航天/运输",
+    "source": "wikipedia:Constellium"
+  },
+  "G0176J109": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Allegion"
+  },
+  "G0403H108": {
+    "business": "提供支付、银行、券商或资产管理服务",
+    "sector": "金融",
+    "source": "wikipedia:Aon (company)"
+  },
+  "G25457105": {
+    "business": "设计、开发或制造半导体芯片与相关器件",
+    "sector": "半导体",
+    "source": "heuristic"
+  },
+  "G25508105": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:CRH plc"
+  },
+  "G29183103": {
+    "business": "生产工业设备、零部件、工程或材料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Eaton Corporation"
+  },
+  "G3643J108": {
+    "business": "经营消费品牌、媒体内容或连锁服务业务",
+    "sector": "消费",
+    "source": "wikipedia:Flutter Entertainment"
+  },
+  "G4124C109": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "heuristic"
+  },
+  "G4474Y214": {
+    "business": "提供金融服务、资本管理或资产管理",
+    "sector": "金融",
+    "source": "wikipedia:Janus Henderson"
+  },
+  "G4766E116": {
+    "business": "研发创新药、生物技术或临床疗法",
+    "sector": "生物科技/制药",
+    "source": "wikipedia:Indivior"
+  },
+  "G54950103": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:Linde plc"
+  },
+  "G7997R103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "科技",
+    "source": "wikipedia:Seagate Technology"
+  },
+  "G87110105": {
+    "business": "从事油气、能源开发或能源服务",
+    "sector": "能源/公用事业",
+    "source": "wikipedia:TechnipFMC"
+  },
+  "G9001E102": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "G9001E128": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "heuristic"
+  },
+  "H2927K103": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:Holcim"
+  },
+  "H8817H100": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:Transocean"
+  },
+  "L8681T102": {
+    "business": "提供互联网平台、企业软件或云服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Spotify"
+  },
+  "M22465104": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Check Point"
+  },
+  "M2682V108": {
+    "business": "提供企业软件、云服务或互联网平台",
+    "sector": "软件与互联网",
+    "source": "heuristic"
+  },
+  "M7S64H106": {
+    "business": "运营互联网平台或企业软件服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Monday.com"
+  },
+  "M87915274": {
+    "business": "生产存储芯片与相关产品",
+    "sector": "半导体",
+    "source": "wikipedia:Tower Semiconductor"
+  },
+  "N14506104": {
+    "business": "提供网络安全软件与服务",
+    "sector": "软件与互联网",
+    "source": "wikipedia:Elastic NV"
+  },
+  "N4732M103": {
+    "business": "提供相关行业产品与服务",
+    "sector": "其他",
+    "source": "wikipedia:JBS N.V."
+  },
+  "N53745100": {
+    "business": "生产化工、材料或工业原料产品",
+    "sector": "工业/材料",
+    "source": "wikipedia:LyondellBasell"
+  }
+}
